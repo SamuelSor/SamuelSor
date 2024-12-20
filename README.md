@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sam! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Active Directory Home Lab](https://www.github/SamuelSor/ActiveDirectoryLab)
   - [Jwipe Disk Sanitization](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> Certifications:</h2>
