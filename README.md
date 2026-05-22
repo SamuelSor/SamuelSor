@@ -10,6 +10,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+## ⚠️ Threat Hunting Projects
+
+- **[Threat Hunt: TOR](https://github.com/SamuelSor/Vulnerability-Management-Program)**
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="SamuelSorto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
