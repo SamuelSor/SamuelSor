@@ -1,3 +1,4 @@
+<img width="1170" height="300" alt="image" src="https://github.com/user-attachments/assets/4cdeeeed-270a-4a15-a8b6-9861664ad872" />
 
 # <a href="https://www.linkedin.com/in/samuelsorto">Samuel Sorto</a>'s IT and Cybersecurity Project Portfolio 🔐
 
@@ -12,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🏹 Threat Hunting Projects
 
-- **[Threat Hunt: TOR](https://github.com/SamuelSor/Cyber-Security/blob/main/THREAT-HUNTS/THREAT-HUNT-TOR-BROWSER.md)**
+- **[Threat Hunting Scenario: TOR Browser Usage](https://github.com/SamuelSor/Cyber-Security/blob/main/THREAT-HUNTS/THREAT-HUNT-TOR-BROWSER.md)**
 
 ## 🤳 Connect With Me
 
