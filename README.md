@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Threat Hunting Projects
 
-- **[Threat Hunt: TOR](https://github.com/SamuelSor/Vulnerability-Management-Program)**
+- **[Threat Hunt: TOR](https://github.com/SamuelSor/Cyber-Security/blob/main/THREAT-HUNTS/THREAT-HUNT-TOR-BROWSER.md)**
 
 ## 🤳 Connect With Me
 
