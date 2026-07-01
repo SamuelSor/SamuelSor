@@ -13,6 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🏹 Threat Hunting Projects
 
+- **[Threat Hunting Scenario: Second Vector](https://github.com/SamuelSor/Cyber-Security/blob/main/THREAT-HUNTS/THREAT-HUNT-Second-Vector.md)**
 - **[Threat Hunting Scenario: TOR Browser Usage](https://github.com/SamuelSor/threat-hunting-scenario-tor)**
 
 ## 🤳 Connect With Me
