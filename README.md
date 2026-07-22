@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-## 🏹 General IT Projects
+## 💻 General IT Projects
 
 - **[Active Directory Lab 1](https://github.com/SamuelSor/ActiveDirectoryLab)**
 
