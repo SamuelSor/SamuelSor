@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/SamuelSor/Vulnerability-Management-Program)**
 - **[Threat Hunting Scenario: Second Vector](https://github.com/SamuelSor/Threat-Hunt-Second-Vector)**
 - **[Threat Hunting Scenario: TOR Browser Usage](https://github.com/SamuelSor/threat-hunting-scenario-tor)**
-- **[Honeypot: MySQL Server]()
+- **[Honeypot: MySQL Server](https://github.com/SamuelSor/MySQL-Server-Honeypot-Project)**
 
 <hr/>
 
