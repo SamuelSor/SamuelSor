@@ -16,6 +16,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario: Second Vector](https://github.com/SamuelSor/Threat-Hunt-Second-Vector)**
 - **[Threat Hunting Scenario: TOR Browser Usage](https://github.com/SamuelSor/threat-hunting-scenario-tor)**
 
+<hr/>
+
+## 🏹 General IT Projects
+
+- **[Active Directory Lab 1](https://github.com/SamuelSor/ActiveDirectoryLab)**
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="SamuelSorto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
